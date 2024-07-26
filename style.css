@@ -1,3 +1,6 @@
 .banner{
-    
+    justify-content:center;
+    margin-top: 17px;
+    margin-bottom: 60px;
+    display: flex
 }
