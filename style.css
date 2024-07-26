@@ -2,6 +2,7 @@
     --cor-de-fundo: #c2e7cf;
     --verde: #085d26;
     --verde-escuro: #195237;
+    --branco: #ffffff;
 
 }
 
@@ -33,9 +34,8 @@ body{
 }
 
 .menu_link{
-    color: var(--verde-escuro);
+    color: var(--branco);
     padding: 1em;
-    background-color: white;
     font-size: 20px;
     font-weight: 700;
     text-decoration: none;
