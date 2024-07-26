@@ -4,17 +4,11 @@
     align-items: center;
 }
 
-.topicos {
-    background: blueviolet;
+.topicos{
+    background: #085d26;
     text-align: center;
-    padding: 1em 0;
 }
 
-.topicos__titulo{
-    color: white;
-    font-weight: 300;
-    margin-bottom: 1em;
-}
 
 .topicos__lista{
     display: flex;
@@ -23,7 +17,7 @@
 }
 
 .topicos__item{
-    margin: 2em 0.5em;
+    margin: 2em 1em;
 }
 
 .topicos__link{
@@ -31,6 +25,6 @@
     padding: 1em;
     background-color: white;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 25px;
     font-weight: 700;
 }
