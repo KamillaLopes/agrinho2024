@@ -15,24 +15,24 @@ body{
     align-items: center;
 }
 
-.topicos{
+.menu{
     background: var(--verde);
     text-align: center;
     justify-content: space-evenly;
 }
 
 
-.topicos__lista{
+.menu_lista{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 
-.topicos__item{
+.menu_item{
     margin: 2em 5em;
 }
 
-.topicos__link{
+.menu_link{
     color: var(--verde-escuro);
     padding: 1em;
     background-color: white;
