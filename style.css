@@ -1,6 +1,6 @@
 .banner{
-    align-items: center;
+    width:500px;
     margin-top: 17px;
     display: flex;
-    width:500px;
+    align-content: center;
 }
