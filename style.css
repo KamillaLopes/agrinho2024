@@ -19,6 +19,7 @@ body{
     background: var(--verde);
     text-align: center;
     justify-content: space-evenly;
+    display: flex;
 }
 
 
