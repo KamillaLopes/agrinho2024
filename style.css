@@ -1,3 +1,14 @@
+:root{
+    --cor-de-fundo: #c2e7cf;
+    --verde: #085d26;
+    --verde-escuro: #195237;
+
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+}
+
 .banner{
     width:500px;
     margin-top: 17px;
@@ -5,7 +16,7 @@
 }
 
 .topicos{
-    background: #085d26;
+    background: var(--verde);
     text-align: center;
 }
 
@@ -21,7 +32,7 @@
 }
 
 .topicos__link{
-    color: #195237;
+    color: var(--verde-escuro);
     padding: 1em;
     background-color: white;
     font-size: 20px;
