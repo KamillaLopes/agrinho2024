@@ -29,6 +29,6 @@
     text-decoration: none;
 }
 
-::marker{
-    display: none;
+li{
+    list-style-type: none;
 }
