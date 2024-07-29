@@ -15,7 +15,7 @@ body{
     margin-top: 17px;
 }
 
-.menu2{
+.menu{
     background: var(--verde);
     text-align: center;
     justify-content: space-evenly;
@@ -23,7 +23,7 @@ body{
 }
 
 
-.menu_list2{
+.menu_list{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -31,11 +31,11 @@ body{
 
 }
 
-.menu_item2{
+.menu_item{
     margin: 1.2em 5em;
 }
 
-.menu_link2{
+.menu_link{
     color: var(--branco);
     padding: 1em;
     font-size: 20px;
