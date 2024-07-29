@@ -78,7 +78,7 @@ li{
 
 .botões__ancora {
     background-color: var(--verde);
-    padding: 1em 3.3em;
+    padding: 1em 160px;
     color: var(--branco);
     font-weight: 700;
     text-decoration: none;
