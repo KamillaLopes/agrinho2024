@@ -25,6 +25,7 @@ body{
     text-align: center;
     justify-content: space-evenly;
     display: flex;
+    border-radius: 5px;
 }
 
 
