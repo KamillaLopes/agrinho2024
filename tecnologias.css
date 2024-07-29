@@ -1,3 +1,11 @@
+:root{
+    --cor-de-fundo: #c2e7cf;
+    --verde: #085d26;
+    --verde-escuro: #195237;
+    --branco: #ffffff;
+
+}
+
 body{
     background-color: var(--cor-de-fundo);
 }
