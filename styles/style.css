@@ -72,13 +72,13 @@ li{
 }
 
 .descrição__imagem{
-    width: 160px;
-    height: 160px;
+    width: 250px;
+    height: 2500px;
 }
 
 .botões__ancora {
     background-color: var(--verde);
-    padding: 1.1em 2.7em;
+    padding: 1.1em 5.5em;
     margin-top: 10px;
     color: var(--branco);
     font-weight: 700;
